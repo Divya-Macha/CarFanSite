@@ -1,0 +1,56 @@
+h1{
+    color:black;
+    margin:0;
+    
+}
+header{
+   background-color:green;
+   height:100px;
+   font-size:25px;
+   padding: 50px 0px 50px 0px;
+}
+ section{
+    color: aqua;
+} 
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color:burlywood ;
+    height:20px;
+    
+}
+a{
+    color:purple;
+    text-decoration: none;
+    padding:20px;
+    
+}
+aside{
+    background-color: gold;
+    height: 380px;
+}
+article{
+    background-color: grey;
+    width:80%;
+    padding:15px 15px 15px 15px;
+    float :left;
+    height:350px;
+}
+a:hover{
+    text-decoration: underline;
+}
+nav a{
+    color:white;
+    font-size: 20px;
+}
+.footernote{
+    background-color:burlywood;
+    font-size: 20px;
+
+}
+input[type=text]{
+    background-color: yellowgreen;
+}
+</style>

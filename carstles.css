@@ -1,0 +1,52 @@
+.cards-wrapper{
+    display:flex;
+}
+.card{
+    margin: 0.5em;
+    
+
+}
+*{
+    margin:0;
+    padding:0;
+}
+/* .background-image{
+      background-image:url('images/'); 
+      background-color: black;
+    
+      background-size: cover;
+      background-repeat: no-repeat; 
+      height: 100vh; 
+ } */
+.container-1{
+    background-color: black;
+    opacity:1;
+}
+/* .bgimage-container{
+    background-repeat: no-repeat;
+    background-image:url('images/carbgimage.png');
+    background-size:cover;
+    height:150vh;
+    width:100%;
+} */
+.container-2{
+    height:150vh;
+    width:100%;
+    /* background-color: black;  */
+    background-size:cover;
+    
+    background-repeat: no-repeat;
+    background-image:url('images/carbgimage.png');
+}
+.container-3{
+    height:150px;
+    width:100%;
+}
+h1{
+    margin:0;
+}
+
+#heading{
+    height:500px;
+    width:700px;
+}
