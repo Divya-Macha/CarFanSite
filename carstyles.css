@@ -1,0 +1,142 @@
+.bgimage-container{
+    background-repeat: no-repeat;
+    background-image:url('images/carbgimage.png');
+    background-size:cover;
+    height:150vh;
+    width:100%;
+}
+.cards-wrapper{
+    display:flex;
+}
+.card{
+    margin: 0.5em;
+}
+.bottom-container1{
+    display:inline;
+    background-color: red;
+    width:100%;
+    height:50px;
+}
+.container{
+    width:70%;
+}
+/*About us Page*/
+.aboutbgimg-container{
+    width:100%;
+    background-repeat: no-repeat;
+    background-image:url('images/defaultcar.png');
+    background-size:cover;
+    height:650px;
+}
+.apmargin{
+    
+    margin-left:9px;
+
+}
+.aboutimg{
+    border-radius: 10px;
+    width:100%;
+}
+.homeh1{
+
+    margin: 10px;
+    display:inline;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.text-container{
+    margin-top: 100px;
+    margin-left: 100px;
+    height:600px;
+    width:30%;
+
+}
+.search-container{
+    
+   
+
+    
+}
+.form-container{
+    
+    border-radius:15px ;
+    margin-top: 100px;
+    margin-left: 400px;
+    height:450px;
+    width:300px;
+    background-color: aliceblue;
+    
+}
+.form-group{
+    padding-top: 20px;
+}
+
+
+.about-container{
+    margin-top: 100px;
+    margin-left:100px;
+    
+/*Contact us*/    
+}
+.contact-container{
+    
+    margin:150px;
+    height:700px;
+    width:80%;
+    
+}
+
+.contact-info-2{
+    margin-top:40px;
+    margin-left: 30px;
+    
+}
+
+.contacth1{
+    text-align: center;
+    margin:10px;
+
+}
+
+.lform-container{
+
+    margin:50px;
+    width:50%;
+    height:500px;
+
+}
+.cphn-container{
+    width:400px;
+}
+/*Services*/
+.scontainer{
+    width:80%;
+    height:1000px;
+    margin:150px;
+}
+.sub-container{
+    margin-top: 100px;
+}
+
+.nav-container{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    font-size:'Open Sans', sans-serif ;
+    
+}
